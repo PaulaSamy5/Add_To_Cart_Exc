@@ -1,8 +1,11 @@
-This is an excercise i have did whilte learning Java Script
+This is an excercise i did while learning JavaScript
 
-Here you can add products and them to the cart and you can't add the same product more than one time but you can control the quantity by decrease or increase it 
+You can add products and manage them in the cart.
 
-And also there are validations in for of Add Product 
+Duplicate products cannot be added — instead, you can control the quantity using the increase and decrease buttons.
+
+There's also form validation when adding a new product.
 
 
-Live Demo: 
+
+Live Demo: https://paulasamy5.github.io/Add_To_Cart_Exc/
