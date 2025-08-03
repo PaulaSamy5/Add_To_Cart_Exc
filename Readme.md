@@ -1,4 +1,4 @@
-This is an excercise i did while learning JavaScript
+This is an excercise I did while learning JavaScript
 
 You can add products and manage them in the cart.
 
